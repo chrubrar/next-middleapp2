@@ -4,6 +4,7 @@ import Link from "next/link";
 interface Props {}
 
 const about = () => {
+  console.log("hello log");
   return (
     <>
       <div>
